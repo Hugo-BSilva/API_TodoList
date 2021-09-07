@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "text": "Varrer a casa",
+      "done": false,
+      "id": 1
+    },
+    {
+      "text": "Fazer a cama",
+      "done": false,
+      "id": 2
+    },
+    {
+      "text": "Limpar o quintal",
+      "done": false,
+      "id": 3
+    },
+    {
+      "text": "Jogar video game",
+      "done": false,
+      "id": 4
+    },
+    {
+      "text": "estudar",
+      "done": false,
+      "id": 5
+    }
+  ]
+}
